@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/QUAN/Desktop/C & Cpp/leetcode",
-      "program": "c:/Users/QUAN/Desktop/C & Cpp/leetcode/build/Debug/outDebug",
+      "cwd": "c:/Users/QUAN/Desktop/C & Cpp/leetcode/Move Zeroes",
+      "program": "c:/Users/QUAN/Desktop/C & Cpp/leetcode/Move Zeroes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

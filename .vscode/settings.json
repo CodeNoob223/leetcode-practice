@@ -124,7 +124,11 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "set": "cpp",
-    "xtree": "cpp"
+    "xtree": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "stack": "cpp",
+    "map": "cpp"
   },
   "cmake.configureOnOpen": true,
   "C_Cpp_Runner.msvcSecureNoWarnings": false

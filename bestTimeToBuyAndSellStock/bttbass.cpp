@@ -1,8 +1,5 @@
 #include <iostream>
-#include <unordered_map>
-#include <string>
 #include <vector>
-#include <utility>
 
 class Solution
 {
