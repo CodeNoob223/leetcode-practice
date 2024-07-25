@@ -25,8 +25,8 @@ public:
           start++;
         }
       }
+      max = std::max(max, end - start + 1);
       end++;
-      max = std::max(max, end - start);
     }
 
     return max;
